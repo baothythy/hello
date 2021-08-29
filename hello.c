@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Thy Nguyen\n");
+  printf("Thy Nguyen!!\n");
+  printf("Major: Undeclared");
 
   return 0;
 }
